@@ -1,0 +1,25 @@
+{
+  "name": "function-maybe",
+  "version": "1.0.0",
+  "description": "Maybe function wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:machobearstudio/function-maybe.git"
+  },
+  "keywords": [
+    "maybe",
+    "function",
+    "undefined"
+  ],
+  "author": "Machobear Studio Inc.",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
